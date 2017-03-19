@@ -12,4 +12,4 @@ A short collection of C# and Grasshopper tutorials initially intended for RC16 s
 
 This work is licensed under [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
-Part of the code is an adaptation to C# of exhisting online resources available for other languages. Credits to the Original codes is always given inside the code whenever needed. 
+Part of the code is an adaptation to C# of existing online resources available for C# or other languages. Credits to the Original codes is always given inside the code whenever needed. 
